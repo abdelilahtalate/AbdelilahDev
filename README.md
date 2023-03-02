@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @AbdelilahDev
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning full_stack website
+- 👋 Hi, I’m @Abdelilahtalate
+- 👀 I’m interested in programing and AI
+- 🌱 I’m currently learning business intelligence
+- 🌱 I’m currently learning UML and c++
 - 💞️ I’m looking to collaborate on every thing
 - 📫 How to reach me call me
+- 
 
 <!---
 AbdelilahDev/AbdelilahDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
